@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple MacBook Pro",
+    "product_image": "https://cdn.bdstall.com/product-image/giant_247908.jpg",
+    "category": "laptops",
+    "price": 1200,
+    "description": "High-performance laptop with M1 chip and retina display.",
+    "Specification": ["M1 Chip", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/tYP2pq7/009-Dell-XPS.jpg",
+    "category": "laptops",
+    "price": 1100,
+    "description": "Compact and powerful laptop with Intel i7 and stunning display.",
+    "Specification": ["Intel i7", "16GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://m.media-amazon.com/images/I/511tEZcc6lL._AC_UF894,1000_QL80_.jpg",
+    "category": "laptops",
+    "price": 1050,
+    "description": "Convertible laptop with a touchscreen and high battery life.",
+    "Specification": ["Intel i5", "8GB RAM", "512GB SSD"],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 4,
+    "product_title": "HP Envy 15",
+    "product_image": "https://i.ibb.co.com/2y2JsdD/hp-envy-15-ep1890tx-11th-gen-intel-core-i7-11800h-11649748497.webp",
+    "category": "laptops",
+    "price": 1120,
+    "description": "A versatile laptop with powerful features and great value.",
+    "Specification": ["15.6-inch FHD Display", "16GB RAM", "512GB SSD", "Intel i7"],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 5,
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co.com/K054PDy/81tgn-KK7-a-S.jpg",
+    "category": "laptops",
+    "price": 850,
+    "description": "Dell's budget-friendly laptop with reliable performance.",
+    "Specification": ["15.6-inch HD Display", "8GB RAM", "256GB SSD", "Intel i5"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 6,
+    "product_title": "MacBook Air",
+    "product_image": "https://i.ibb.co.com/2Wtf7xr/13-inch-macbook-air-19543274.jpg",
+    "category": "laptops",
+    "price": 999,
+    "description": "Apple's thin and light laptop with the M1 chip for excellent performance.",
+    "Specification": ["13.3-inch Retina Display", "8GB RAM", "256GB SSD", "Apple M1"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 7,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/Ybz7ghn/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+    "category": "phones",
+    "price": 950,
+    "description": "Latest Apple smartphone with A15 chip and advanced camera system.",
+    "Specification": ["A15 Chip", "128GB Storage", "OLED Display"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy S22 Ultra",
+    "product_image": "https://i.ibb.co.com/LzJZ6NJ/S22-Ultra-Burgundy-800x800.png",
+    "category": "phones",
+    "price": 1250,
+    "description": "High-end smartphone with advanced camera and S Pen support.",
+    "Specification": ["Exynos 2200", "256GB Storage", "108MP Camera"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co.com/XtybZ76/3410-42224.jpg",
+    "category": "phones",
+    "price": 799,
+    "description": "Compact iPhone model with powerful A15 chip and vibrant display.",
+    "Specification": ["A15 Chip", "128GB Storage", "OLED Display"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 10,
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/Y0kWfjg/Galaxy-Watch5-blue-custom-ma-bd.jpg",
+    "category": "smart watches",
+    "price": 300,
+    "description": "Smartwatch with health monitoring and fitness tracking features.",
+    "Specification": ["1.4 inch Display", "GPS", "Heart Rate Monitor"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 11,
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/G7M61cq/Apple-Watch-Series-8-2-800x800.jpg",
+    "category": "smart watches",
+    "price": 399,
+    "description": "Advanced smartwatch with fitness tracking and cellular support.",
+    "Specification": ["1.6 inch Display", "ECG", "Blood Oxygen Sensor"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 12,
+    "product_title": "Anker PowerPort III Nano",
+    "product_image": "https://i.ibb.co.com/Jyf4fDp/0039436-anker-powerport-iii-nano-20w-fast-charger.jpg",
+    "category": "accessories",
+    "price": 499,
+    "description": "Compact 20W USB-C charger with fast-charging technology.",
+    "Specification": ["20W Power Delivery", "USB-C", "Fast Charging"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 13,
+    "product_title": "Apple 20W USB-C Power Adapter",
+    "product_image": "https://i.ibb.co.com/LnmZkDR/1526-85853.jpg",
+    "category": "accessories",
+    "price": 699,
+    "description": "Efficient 20W USB-C power adapter compatible with iPhone and iPad.",
+    "Specification": ["20W Power Output", "USB-C", "Compact Design"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 14,
+    "product_title": "Anker PowerCore 10000",
+    "product_image": "https://i.ibb.co.com/ygCVHDr/images-q-tbn-ANd9-Gc-TSIRBIXcb-KCm-BFk6-F840-Ie-EAXi6-GLk-UQ7tw-s.jpg",
+    "category": "accessories",
+    "price": 899,
+    "description": "Portable 10000mAh power bank with high-speed charging.",
+    "Specification": ["10000mAh Capacity", "High-Speed Charging", "Compact Design"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 15,
+    "product_title": "Xiaomi Mi Power Bank 3",
+    "product_image": "https://i.ibb.co.com/nP2xNQC/BHR4412-GL-wr-02.jpg",
+    "category": "accessories",
+    "price": 1299,
+    "description": "20000mAh high-capacity power bank with dual USB ports.",
+    "Specification": ["20000mAh Capacity", "Dual USB Output", "Fast Charging"],
+    "availability": false,
+    "rating": 4.5
+  }
+]
